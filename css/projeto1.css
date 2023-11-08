@@ -1,0 +1,110 @@
+body{
+    background-color: rgb(153, 153, 153);
+}
+.principal{
+    height: 800px;
+    width: 1000px;
+    background-color: rgb(255, 255, 255);
+    margin-left: auto;
+    margin-right: auto;
+}
+.Parte_001{
+    height: 20px;
+    width: 100%;
+
+}
+.Parte_002{
+    height: 60px;
+    width: 670px;
+    margin: auto;
+   
+}
+.Parte_003{
+    height: 180px;
+    width: 160px;
+    margin-left: 20px;
+    margin-top:-60px;
+   
+}
+.text1{
+    font-family: 'Playpen Sans', cursive;
+}
+.Parte_004{
+    height: 80px;
+    width: 400px;
+    margin-left: 500px;
+    margin-top: -30px;
+    position: relative;
+}
+.Parte_005{
+    height: 300px;
+    width: 1000px;
+    margin-top: 50px;
+}
+.Parte_006{
+    height: 200px;
+    width: 200px;
+    margin-top: -30px;
+    margin-left: 750px;
+    position: relative;
+}
+.Parte_007{
+    height: 60px;
+    width: 400px;
+    margin-top: -60px;
+    margin-left: 50px;
+    position: relative;
+}
+.Parte_008{
+    height: 600px;
+    width: 400px;
+    margin-left: 600px;
+    position: relative;
+    margin-top: -130px;
+    
+}
+.Parte_009{
+    height: 200px;
+    width: 500px;
+    margin-top: -200px;
+    position: relative;
+    margin-left: 20px;
+}
+.text2{
+    font-family: 'Playpen Sans', cursive;
+    font-size: 28px;
+}
+.Parte_010{
+    height: 100px;
+    width: 500px;
+    margin-left: 300px;
+    position: relative;
+}
+.Parte_011{
+    height: 300px;
+    width:700px;
+    margin-left: 300px;
+    position: relative;
+}
+.Parte_012{
+    height: 200px;
+    width:700px;
+    margin-left: 20px;
+    margin-top: 300px;
+    margin-top: 100px;
+
+}
+.Parte_012 th, .Parte_012 td {
+    border-bottom: 3px solid;
+}
+.Parte_013{
+    height: 200px;
+    width:700px;
+    content: '';
+}
+.Parte_014{
+    height: 300px;
+    width: 230px;
+    margin-left: 770px;
+    margin-top: -120px;
+}
